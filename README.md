@@ -7,7 +7,7 @@
 
 2- Primer paso. 
 
-Se debe clonar el repositorio y instalar las dependencias. git clone https://github.com/KeviinJerez/Prueba-Mega
+Se debe clonar el repositorio y instalar las dependencias. git clone https://github.com/CatSupremaci/Trabajo-BD.git
 
 3- Construir la base de datos en mysql.
 
