@@ -170,12 +170,7 @@ INSERT INTO COMENTARIO (ticket_id, usuario_id, contenido) VALUES
 
 -- Ingresar a la carpeta que contiene el Backend con el comando `cd trabajo_tickets`.
 
--- Instalar las siguentes dependencias.
-
-- Express, npm install express
-- Dotenv, npm install dotenv
-- Mysql, npm install mysql2
-- Cors, npm install cors
+-- Instalar las siguentes dependencias, `npm i`.
 
 -- Correr el Backend con el comando `node app.js`.
 
